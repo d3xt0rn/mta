@@ -1,7 +1,6 @@
 # mta
 simple ascii video player for linux made by AI
-![<img width="641" height="679" alt="image" src="https://github.com/user-attachments/assets/90e8fe2a-6f03-4497-8bd2-69215c9681a2" />
-]
+<img width="641" height="679" alt="image" src="https://github.com/user-attachments/assets/90e8fe2a-6f03-4497-8bd2-69215c9681a2" />
 # needs
 - ffmpeg
 - gcc dev packages
