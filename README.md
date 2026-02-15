@@ -60,7 +60,7 @@ mta14 video.mp4 -256 -F60
 * `-Ru` – extended character set (512 chars)
 * `-Rl` / `-Rm` – grid or pattern styles
 
-> For help: `mta[ver] -h` (currently not working)
+> For help: `mta[ver] video.mp4 -h`
 
 ---
 
@@ -69,7 +69,7 @@ mta14 video.mp4 -256 -F60
 * Font size: **2–4px**
 * Terminal: **Kitty**, fullscreen mode for best results
 * Terminal colors: dark background and high contrast colors
-- cmd 'mta video.mp4 -256 -F60'
+- cmd `mta video.mp4 -256 -F60`
 ---
 
 ## Warning
