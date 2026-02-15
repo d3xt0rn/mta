@@ -10,6 +10,10 @@ simple ascii video player for linux made by AI
 mta[ver] video.mp4 -flags
 #like: mta14 video.mp4 -256 -F60
 ```
+## recommended terminal settings
+- font size: 2-4px
+- terminal: kitty as fullscreen
+
 # for help list
 add flag -h at the end
 
