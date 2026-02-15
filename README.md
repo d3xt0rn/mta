@@ -10,3 +10,11 @@ simple ascii video player for linux made by AI
 mta[ver] video.mp4 -flags
 #like: mta14 video.mp4 -256 -F60
 ```
+# for help list
+add flag -h at the end
+
+## Warnning
+```bash
+mta[ver] -h
+```
+not working now
