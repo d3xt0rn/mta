@@ -1,6 +1,7 @@
 # MTA
 
 **Simple ASCII Video Player for Linux**
+<img width="641" height="679" alt="image" src="https://github.com/user-attachments/assets/90e8fe2a-6f03-4497-8bd2-69215c9681a2" />
 
 ---
 
