@@ -24,7 +24,7 @@ sudo pacman -Syu ffmpeg base-devel
 
 ```bash
 git clone https://github.com/d3xt0rn/mta.git
-cd 'source code'
+cd '~/mta/source code'
 g++ -O2 -std=c++17 -pthread -o mta mta16.cpp
 ```
 
