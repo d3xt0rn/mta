@@ -74,7 +74,7 @@ mta14 video.mp4 -256 -F60
 
 ## Warning
 
-* cmd `mta -h` is not functional yet. use 'mta video.mp4 -h'
+* cmd `mta -h` is not functional yet. use **mta video.mp4 -h** or **mta**
 
 ---
 
