@@ -15,7 +15,7 @@ sudo apt update
 sudo apt install ffmpeg build-essential pkg-config
 
 # On Arch Linux
-sudo pacman -Syu ffmpeg base-devel
+sudo pacman -S ffmpeg base-devel
 ```
 
 ---
