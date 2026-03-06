@@ -76,8 +76,9 @@ mta14 video.mp4 -256 -F60
 
 * cmd `mta -h` is not functional yet. use **mta video.mp4 -h** or **mta**
 
----
 and ready to use binary worcking only on **linux x86**
+
+---
 
 ## Tips
 
