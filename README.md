@@ -67,7 +67,7 @@ mta14 video.mp4 -256 -F60
 ## Recommended Terminal Settings and mta cmd
 
 * Font size: **2–4px**
-* Terminal: **Kitty**, fullscreen mode for best results
+* Terminal: **Ghostty**, fullscreen mode for best results
 * Terminal colors: dark background and high contrast colors
 - cmd `mta video.mp4 -256 -F60`
 ---
